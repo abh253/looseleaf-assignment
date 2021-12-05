@@ -1,10 +1,11 @@
 import './App.css';
 import Query from './components/Query';
+import Page1 from './pages/Page1';
 
 function App() {
   return (
     <div>
-      <Query question='Who is Abhishek?' ans='He is brave warrior of the sea.'/>
+      <Page1/>
     </div>
   );
 }

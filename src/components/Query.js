@@ -8,20 +8,23 @@ const Query = ({ question, ans, theme }) => {
     const [queryOpen, setQueryOpen] = useState(false);
     const toggleQueryOpen = () => { setQueryOpen(!queryOpen) }
     if(theme==='dark'){
-        bgclr='black';
+        bgclr='#0d0d0d';
         textclr='white';
     }
+    if(!ans){
+        ans='lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'
+    }
     return (
-        <div className='m-3' style={{backgroundColor:bgclr,color:textclr}}>
+        <div className='px-3' style={{backgroundColor:bgclr,color:textclr}}>
             <div className='d-flex justify-content-between'>
-                <p className='fs-3 fw-bold'>{question}</p>
+                <p className='fs-3 fw-bold mb-1'>{question}</p>
                 <div className='fs-3'>
                     {queryOpen ? <AiOutlineUp onClick={toggleQueryOpen} /> : <AiOutlineDown onClick={toggleQueryOpen} />}
                 </div>
             </div>
 
 
-            {queryOpen ? <p className='fs-5'>{ans}</p> : null}
+            <p className={`fs-5 ans ${queryOpen?'ans-show':null}`}>{ans}</p>
         </div>
     )
 }

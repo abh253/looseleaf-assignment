@@ -1,0 +1,14 @@
+.ans{
+    opacity: 0;
+    transform:translateY(-40px) ;
+    transition: 0.5s all ease-out;
+    height: 0;
+
+}
+.ans-show{
+    opacity: 1;
+    height: auto;
+    transform: translateY(0);
+    /* transition: 0.5s all ease-out; */
+    
+}
