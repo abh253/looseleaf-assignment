@@ -14,7 +14,7 @@ const Form = () => {
                             return <input key={index} type="text" name={single} placeholder={single} className='my-2 border border-2 p-2 border-white bg-dark col-md-6 rounded text-white' />
                         })
                     }
-                    <Link to='/contact' className="btn btn-primary col-4 col-md-3 mt-3 align-self-center" >Contact us</Link>
+                    <Link to='/looseleaf-assignment/contact' className="btn btn-primary col-4 col-md-3 mt-3 align-self-center" >Contact us</Link>
                 </div>
             </form>
         </section>

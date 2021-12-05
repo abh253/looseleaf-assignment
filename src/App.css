@@ -3,9 +3,10 @@
     transform:translateY(-40px) ;
     transition: 0.5s all ease-out;
     height: 0;
-
+    visibility: hidden;
 }
 .ans-show{
+    visibility:inherit;
     opacity: 1;
     height: auto;
     transform: translateY(0);

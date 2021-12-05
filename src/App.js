@@ -13,7 +13,7 @@ function App() {
     <div>
       <Routes>
         <Route exact path='/looseleaf-assignment' element={<Page1/>}/>
-        <Route path='/contact' element={<Page2/>}/>
+        <Route path='/looseleaf-assignment/contact' element={<Page2/>}/>
       </Routes>
     </div>
   );
