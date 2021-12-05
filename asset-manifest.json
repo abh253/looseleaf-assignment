@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/looseleaf-assignment/static/css/main.820a8a2e.chunk.css",
-    "main.js": "/looseleaf-assignment/static/js/main.cd843d35.chunk.js",
-    "main.js.map": "/looseleaf-assignment/static/js/main.cd843d35.chunk.js.map",
+    "main.js": "/looseleaf-assignment/static/js/main.f0b3697f.chunk.js",
+    "main.js.map": "/looseleaf-assignment/static/js/main.f0b3697f.chunk.js.map",
     "runtime-main.js": "/looseleaf-assignment/static/js/runtime-main.99822130.js",
     "runtime-main.js.map": "/looseleaf-assignment/static/js/runtime-main.99822130.js.map",
     "static/css/2.0a9ec390.chunk.css": "/looseleaf-assignment/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.56a29c3e.chunk.js": "/looseleaf-assignment/static/js/2.56a29c3e.chunk.js",
-    "static/js/2.56a29c3e.chunk.js.map": "/looseleaf-assignment/static/js/2.56a29c3e.chunk.js.map",
+    "static/js/2.162f5bf1.chunk.js": "/looseleaf-assignment/static/js/2.162f5bf1.chunk.js",
+    "static/js/2.162f5bf1.chunk.js.map": "/looseleaf-assignment/static/js/2.162f5bf1.chunk.js.map",
     "index.html": "/looseleaf-assignment/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/looseleaf-assignment/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.820a8a2e.chunk.css.map": "/looseleaf-assignment/static/css/main.820a8a2e.chunk.css.map",
-    "static/js/2.56a29c3e.chunk.js.LICENSE.txt": "/looseleaf-assignment/static/js/2.56a29c3e.chunk.js.LICENSE.txt"
+    "static/js/2.162f5bf1.chunk.js.LICENSE.txt": "/looseleaf-assignment/static/js/2.162f5bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99822130.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.56a29c3e.chunk.js",
+    "static/js/2.162f5bf1.chunk.js",
     "static/css/main.820a8a2e.chunk.css",
-    "static/js/main.cd843d35.chunk.js"
+    "static/js/main.f0b3697f.chunk.js"
   ]
 }
