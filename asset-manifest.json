@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/looseleaf-assignment/static/css/main.d6050966.chunk.css",
-    "main.js": "/looseleaf-assignment/static/js/main.7cb9a5a2.chunk.js",
-    "main.js.map": "/looseleaf-assignment/static/js/main.7cb9a5a2.chunk.js.map",
+    "main.js": "/looseleaf-assignment/static/js/main.f557b848.chunk.js",
+    "main.js.map": "/looseleaf-assignment/static/js/main.f557b848.chunk.js.map",
     "runtime-main.js": "/looseleaf-assignment/static/js/runtime-main.99822130.js",
     "runtime-main.js.map": "/looseleaf-assignment/static/js/runtime-main.99822130.js.map",
     "static/css/2.0a9ec390.chunk.css": "/looseleaf-assignment/static/css/2.0a9ec390.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.1dbc9697.chunk.js",
     "static/css/main.d6050966.chunk.css",
-    "static/js/main.7cb9a5a2.chunk.js"
+    "static/js/main.f557b848.chunk.js"
   ]
 }
