@@ -11,10 +11,10 @@ const Form = () => {
                 <div className="row flex-column align-items-center mt-5">
                     {
                         inputAreas.map((single, index) => {
-                            return <input key={index} type="text" name={single} placeholder={single} className='my-2 border border-2 p-2 border-white bg-dark col-md-6 rounded text-white' />
+                            return <input key={index} type="text" name={single} placeholder={single} className='my-2 border border-2 p-2 border-white bg-dark col-10 col-md-6 rounded text-white' />
                         })
                     }
-                    <Link to='/looseleaf-assignment/contact' className="btn btn-primary col-4 col-md-3 mt-3 align-self-center" >Contact us</Link>
+                    <Link to='/looseleaf-assignment/contact' className="btn btn-primary col-4 col-md-3 mt-3 align-self-center fw-bold" >Contact us</Link>
                 </div>
             </form>
         </section>
