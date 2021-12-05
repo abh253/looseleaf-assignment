@@ -17,3 +17,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.fs-7{
+  font-size: 0.875rem;
+}
+.fs-8{
+  font-size: 0.75rem;
+}
+.fs-9{
+  font-size:0.65rem
+}
+.fs-10{
+  font-size: 0.5rem;
+}

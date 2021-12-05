@@ -12,3 +12,15 @@
     /* transition: 0.5s all ease-out; */
     
 }
+input{
+    outline: none;
+}
+input:focus{
+    outline: 2px solid rgb(146, 146, 146);
+}
+input::placeholder{
+    font-weight: 700;
+}
+.rounded{
+    border-radius: 0.5rem;
+}
