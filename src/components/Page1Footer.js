@@ -22,9 +22,9 @@ const Page1Footer = () => {
                 </div>
                 <div className='my-3'>Made in India with Love</div>
                 <div className='row m-auto pt-2 justify-content-between border-top border-3 border-light'>
-                    <p className='col col-md-2'>Privacy</p>
-                    <p className='col col-md-2'>Terms</p>
-                    <p className='col col-md-2'>Contact Us</p>
+                    <p className='col p-0 col-md-2 fw-bold'>Privacy</p>
+                    <p className='col p-0 col-md-2 fw-bold'>Terms</p>
+                    <p className='col p-0 col-md-2 fw-bold'>Contact Us</p>
                 </div>
             </article>
 
