@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/looseleaf-assignment/static/css/main.5df56ae7.chunk.css",
+    "main.js": "/looseleaf-assignment/static/js/main.00f73238.chunk.js",
+    "main.js.map": "/looseleaf-assignment/static/js/main.00f73238.chunk.js.map",
+    "runtime-main.js": "/looseleaf-assignment/static/js/runtime-main.99822130.js",
+    "runtime-main.js.map": "/looseleaf-assignment/static/js/runtime-main.99822130.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/looseleaf-assignment/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c117e60c.chunk.js": "/looseleaf-assignment/static/js/2.c117e60c.chunk.js",
+    "static/js/2.c117e60c.chunk.js.map": "/looseleaf-assignment/static/js/2.c117e60c.chunk.js.map",
+    "index.html": "/looseleaf-assignment/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/looseleaf-assignment/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.5df56ae7.chunk.css.map": "/looseleaf-assignment/static/css/main.5df56ae7.chunk.css.map",
+    "static/js/2.c117e60c.chunk.js.LICENSE.txt": "/looseleaf-assignment/static/js/2.c117e60c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99822130.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c117e60c.chunk.js",
+    "static/css/main.5df56ae7.chunk.css",
+    "static/js/main.00f73238.chunk.js"
+  ]
+}
